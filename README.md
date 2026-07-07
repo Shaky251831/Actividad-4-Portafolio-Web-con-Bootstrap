@@ -1,6 +1,7 @@
 # Actividad 4.  Portafolio Web con Bootstrap o Tailwind.
 
-**Estudiante:** Briseida Márquez Agustín  
+**Alumna:** Márquez Agustín Briseida.
+**Docente:** Martínez Nieto Adelina.
 **Curso:** Programación Web 2026  
 ---
 
@@ -19,8 +20,9 @@ con HTML, CSS y JavaScript.
 * **HTML5** 
 * **CSS3** 
 * **JavaScript**  
-* **Git & GitHub** 
+* **Git & GitHub**
 ---
+
 ## Link de la Plantilla. 
 https://bootstraptaste-com.translate.goog/devfolio-free-portfolio-bootstrap-html-template/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc 
 
@@ -49,3 +51,6 @@ Como la sección de testimonios ahora solo cuenta con un solo elemento, se modif
 Se configuró un script personalizado de JavaScript al final del documento para escuchar el evento `submit` del formulario de contacto. Este proceso captura los valores de los campos de texto y construye una URL con el protocolo `mailto:` para automatizar el envío del correo de forma nativa desde el navegador.
 
 ## Capturas de pantalla.
+
+
+
