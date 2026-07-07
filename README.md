@@ -51,6 +51,11 @@ Como la sección de testimonios ahora solo cuenta con un solo elemento, se modif
 Se configuró un script personalizado de JavaScript al final del documento para escuchar el evento `submit` del formulario de contacto. Este proceso captura los valores de los campos de texto y construye una URL con el protocolo `mailto:` para automatizar el envío del correo de forma nativa desde el navegador.
 
 ## Capturas de pantalla.
+<img width="589" height="310" alt="Imagen3" src="https://github.com/user-attachments/assets/0c7fd888-8878-4c97-9d2e-adf30e86cba6" />
+<img width="589" height="309" alt="Imagen4" src="https://github.com/user-attachments/assets/41abdf3f-a5dc-4856-91ca-c3e8fb13964a" />
+<img width="589" height="315" alt="Imagen5" src="https://github.com/user-attachments/assets/4a0f1fd5-3fbc-461d-82ec-999a649938ed" />
+<img width="589" height="312" alt="Imagen6" src="https://github.com/user-attachments/assets/f23abf81-b804-4b97-a4ac-d0f9d577410c" />
+<img width="589" height="314" alt="Imagen7" src="https://github.com/user-attachments/assets/53a7aad9-2db3-4497-81f9-12207412b947" />
 
 
 
