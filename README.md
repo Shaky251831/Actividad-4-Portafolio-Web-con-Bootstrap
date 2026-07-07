@@ -46,7 +46,7 @@ Para adaptar el sitio a los requerimientos específicos de la entrega, abrí el 
 Al eliminar elementos del HTML, la consola del navegador comenzó a arrojar errores de tipo `Uncaught TypeError` debido a que los scripts seguían intentando inicializar componentes inexistentes. Para solucionarlo:
 * Abrí el archivo `js/portafolio.js` y elimine la línea de código `new PureCounter();` que controlaba los contadores borrados.
 
-### Paso 4: Ajuste de Parámetros en el Carrusel (Swiper.js).
+### Paso 4: Ajustes.
 Como la sección de testimonios ahora solo cuenta con un solo elemento, se modificó el bloque de configuración JSON embebido en el componente Swiper del HTML. Se cambiaron las propiedades a `"loop": false` y `"autoplay": false` para evitar animaciones infinitas.
 
 ### Paso 5: Personalización de Estilos y Contenido
