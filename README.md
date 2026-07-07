@@ -2,12 +2,15 @@
 
 **Alumna:** Márquez Agustín Briseida.
 **Docente:** Martínez Nieto Adelina.
-**Curso:** Programación Web 2026  
+**Curso:** Programación Web 2026.
+
 ---
 
 ## Descripción del Proyecto.
+
 Este proyecto consiste en el desarrollo y personalización de un portafolio web. Tome como base la plantilla profesional **DevFolio**, adaptando por completo su estructura y estilos para reflejar mi perfil académico y habilidades.
 Elframework CSS que use fue el Bootstrap.
+
 ---
 
 ##  Descripción de cada sección.
@@ -15,6 +18,7 @@ Elframework CSS que use fue el Bootstrap.
 Estudiante de la materia de Programacion Web, me gusta aprender nuevas formas del uso de tecnologia y como aplicarlas.
 Aprendo como funcionan las paginas web y me gusta ir practicando poco a poco
 con HTML, CSS y JavaScript.
+
 ---
 ## Tecnologías.
 * **HTML5** 
