@@ -15,7 +15,7 @@ Estudiante de la materia de Programacion Web, me gusta aprender nuevas formas de
 Aprendo como funcionan las paginas web y me gusta ir practicando poco a poco
 con HTML, CSS y JavaScript.
 ---
-## 🛠️ Tecnologías.
+## Tecnologías.
 * **HTML5** 
 * **CSS3** 
 * **JavaScript**  
